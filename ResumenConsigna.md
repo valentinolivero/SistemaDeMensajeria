@@ -1,1 +1,1 @@
-El proposito del codigo es realizar un sistema de mensajeria , en cual se encuenta la clase padre Mensaje y sus hijos (SMS y Email), en el cual se pedirá distintos casos de uso utilizando los distintos metodos de cada clase.
+El proposito del codigo es realizar un sistema de mensajeria registrando una lista de mensahes, en el cual se encuenta la clase padre Mensaje y sus hijos (SMS y Email), en el test se pedirá distintos casos de uso utilizando los distintos metodos de cada clase.
